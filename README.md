@@ -1,7 +1,7 @@
 # Crime-Trials_Beta_08-04-2020
 This is the repo for the game Crime Trials as developed by the Flightless Bees student team of Algonquin College Game Development class of 2020.
 
-Crime Trials is a First Person Action Parkour game. Set in a distopian future where convicts wager their lives for freedom and the entertainment of the masses. Take your place in the rocket boots of a Contestant and run for your life! Welcome to Crime Trials. 
+Crime Trials is a First Person Action Parkour game. Set in a dystopian future where convicts wager their lives for freedom and the entertainment of the masses. Take your place in the rocket boots of a Contestant and run for your life! Welcome to Crime Trials. 
 
 
 This game is developed as part of the Capstone project for the Game Development program by a team of 10.
