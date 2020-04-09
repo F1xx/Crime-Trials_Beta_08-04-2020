@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WallPhoneReceiverMat
+  m_Shader: {fileID: -6465566751694194690, guid: cae0e17c812c4db439b7f6f91b959991,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_29D51FF9_Texture:
+        m_Texture: {fileID: 2800000, guid: d2a17b9d5c336a347a698207a5af5098, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_29D51FF9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d2a17b9d5c336a347a698207a5af5098, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_CEC51A43_Texture:
+        m_Texture: {fileID: 2800000, guid: ce687cfa849535f42bd14761483f252a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_CEC51A43_Texture_1:
+        m_Texture: {fileID: 2800000, guid: ce687cfa849535f42bd14761483f252a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_EF8511FA_Texture:
+        m_Texture: {fileID: 2800000, guid: ef573fa1cd4a58048ad9acfea1e4eb0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_EF8511FA_Texture_1:
+        m_Texture: {fileID: 2800000, guid: ef573fa1cd4a58048ad9acfea1e4eb0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors: []

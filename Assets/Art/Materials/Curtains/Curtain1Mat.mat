@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Curtain1Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 5b82e7f638a3ba94eb0ed922b0920b36,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_5B96A325_Texture:
+        m_Texture: {fileID: 2800000, guid: aedc6964b5c7d6f4097ed6403f9b7eeb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_5B96A325_Texture_1:
+        m_Texture: {fileID: 2800000, guid: aedc6964b5c7d6f4097ed6403f9b7eeb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_DE09CC76_Texture:
+        m_Texture: {fileID: 2800000, guid: a0992ae3cb85084488123d9e4b4031d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_DE09CC76_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a0992ae3cb85084488123d9e4b4031d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors: []

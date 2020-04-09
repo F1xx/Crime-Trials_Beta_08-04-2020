@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DirectorChairMat
+  m_Shader: {fileID: -6465566751694194690, guid: 167f680596bd25e4ca6ad48e42c0ddf6,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_5629671_Texture:
+        m_Texture: {fileID: 2800000, guid: 73b16293a7c67f548864d0fd4de37659, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_5629671_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 73b16293a7c67f548864d0fd4de37659, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_91579DD1_Texture:
+        m_Texture: {fileID: 2800000, guid: 6d9b87fae8362ae46ad76d32462121de, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_91579DD1_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6d9b87fae8362ae46ad76d32462121de, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E9A55B3_Texture:
+        m_Texture: {fileID: 2800000, guid: b5ae55217b8fc7842a1aa3a8ad944d0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E9A55B3_Texture_1:
+        m_Texture: {fileID: 2800000, guid: b5ae55217b8fc7842a1aa3a8ad944d0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors: []

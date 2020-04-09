@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GroundTurretHeadMat
+  m_Shader: {fileID: -6465566751694194690, guid: 610f36be81fa4da488d2c269e153590a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_18D97_Texture:
+        m_Texture: {fileID: 2800000, guid: 8ed3a04fe00fdd94da1dc51427e72bc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_18D97_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 8ed3a04fe00fdd94da1dc51427e72bc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2D9F804C_Texture:
+        m_Texture: {fileID: 2800000, guid: 80ccd89a5ac0c22458b338ed36f8df5d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_2D9F804C_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 80ccd89a5ac0c22458b338ed36f8df5d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_61F2AB9B_Texture:
+        m_Texture: {fileID: 2800000, guid: ca74b362db00649428693fb6e73311fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_61F2AB9B_Texture_1:
+        m_Texture: {fileID: 2800000, guid: ca74b362db00649428693fb6e73311fb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors: []
