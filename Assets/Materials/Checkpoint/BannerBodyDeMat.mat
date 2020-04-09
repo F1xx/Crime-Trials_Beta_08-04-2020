@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BannerBodyDeMat
+  m_Shader: {fileID: -6465566751694194690, guid: 15678ddbbf904e04393f7d2fea8f36b7,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_148FBB04_Texture:
+        m_Texture: {fileID: 2800000, guid: 0221074efd41835459549f73da02365f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_148FBB04_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0221074efd41835459549f73da02365f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_BC0E5789_Texture:
+        m_Texture: {fileID: 2800000, guid: 7add68da645457e4689c1925d4875314, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_BC0E5789_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7add68da645457e4689c1925d4875314, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_DB9FC67B_Texture:
+        m_Texture: {fileID: 2800000, guid: 80ae2cd84e1f47c4889f5aa21733061b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_DB9FC67B_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 80ae2cd84e1f47c4889f5aa21733061b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors: []

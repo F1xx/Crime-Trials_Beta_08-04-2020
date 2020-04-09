@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BarStoolMat
+  m_Shader: {fileID: -6465566751694194690, guid: 9447cbadc10f062458fa5d7300a4c302,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_533F49C_Texture:
+        m_Texture: {fileID: 2800000, guid: 71f34a422f0dbb94196eadce91930db5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_533F49C_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 71f34a422f0dbb94196eadce91930db5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_AB19A5EE_Texture:
+        m_Texture: {fileID: 2800000, guid: 70f485890949b9c4cb27a46a62e45bd1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_AB19A5EE_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 70f485890949b9c4cb27a46a62e45bd1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_B575727C_Texture:
+        m_Texture: {fileID: 2800000, guid: f07db5b159d699448966e90bb94fc930, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_B575727C_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f07db5b159d699448966e90bb94fc930, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors: []

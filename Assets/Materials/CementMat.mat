@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CementMat
+  m_Shader: {fileID: -6465566751694194690, guid: fbe26fb7daa8c724f9498fd9c431f43a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_51AC5776_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9b316be01a0856f45a7d9b4047446723, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_77469E27_Texture:
+        m_Texture: {fileID: 2800000, guid: bc0fa10b37ff30c4caa8f48544b238b0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_77469E27_Texture_1:
+        m_Texture: {fileID: 2800000, guid: bc0fa10b37ff30c4caa8f48544b238b0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7A93786A_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9b8718888527c0d49a33097957ec8d56, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_EE22EBC_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9b316be01a0856f45a7d9b4047446723, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors: []
