@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 23039c88d430c12438d361d28c969445
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blood Splat 1
+    second: {fileID: 2100000, guid: 89a71c4b03df0ec43adbfb93fc72534d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blood Splat 2
+    second: {fileID: 2100000, guid: 151a8b57d5c57b64694e3f588ad6aff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark 2
+    second: {fileID: 2100000, guid: ac17caef1f9c5c84caf0ae37db352ee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark 3
+    second: {fileID: 2100000, guid: 2dcb9f55a87bef341a5ef774d3184406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark 4
+    second: {fileID: 2100000, guid: add5b57b776aa94448a3ef6b74609452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling Texture
+    second: {fileID: 2100000, guid: 51cf276cf59ec744187cbce4263ceb24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2100000, guid: 8231cc4b012139847978a1b173a1da27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crack
+    second: {fileID: 2100000, guid: bd87c2fb6287ec942b5c4dab6135233a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crack 2
+    second: {fileID: 2100000, guid: 61ca70f175d30ce41a14ad830c7bbd5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crack 3
+    second: {fileID: 2100000, guid: 57813805cef32cb4c96c082390c5a4b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt Spots
+    second: {fileID: 2100000, guid: 6f10a404f9443bd4c8e47af20ecb8b34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elevator Indicator Sign
+    second: {fileID: 2100000, guid: 268a1fdd455091b4fb2845140e8a66db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor Texture
+    second: {fileID: 2100000, guid: f03a004891b75394b8eb5a9c5df35964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hard hat Sign
+    second: {fileID: 2100000, guid: b13e734e3c2ad1b48955e12fa40d8f1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left Elevator Sign
+    second: {fileID: 2100000, guid: 82d032efcdf7f97418fe8e9cf584f9ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d4c6eef87b3ab0f418c39400cac35f56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Office Wall Texture
+    second: {fileID: 2100000, guid: 288e6c3536cc2714c93a7bc837e77d84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right Elevator Sign
+    second: {fileID: 2100000, guid: bcd7b1ffe642dbd4796ef74336bdb87d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scorch Mark
+    second: {fileID: 2100000, guid: e6c348e4d246dbc44b31a885f80ded1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Outlet
+    second: {fileID: 2100000, guid: 8e716203ada40874b9feb33591832278, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blood Splat 1 Diffuse
+    second: {fileID: 2800000, guid: aad1feb23e3150143a2e5cdb1123c100, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blood Splat 1 Opacity
+    second: {fileID: 2800000, guid: 998109403860afd4aa550344a93f4186, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blood Splat 2 Diffuse
+    second: {fileID: 2800000, guid: 259916340a90aa84faf1733dc8426c2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blood Splat 2 Opacity
+    second: {fileID: 2800000, guid: a717827123855ab479d019097161982c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark 2 Diffuse
+    second: {fileID: 2800000, guid: 6cf768e502d640640847538de6853888, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark 2 Opacity
+    second: {fileID: 2800000, guid: 1d5c8287fd9e7ae448691ab9c97b74cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark 3 Diffuse
+    second: {fileID: 2800000, guid: ff3fd208973e6ce4ba3d336728ebfcaf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark 3 Opacity
+    second: {fileID: 2800000, guid: 90c48c0e6f8a533499ddb31f0179196c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark 4 Diffuse
+    second: {fileID: 2800000, guid: b8f8a66db3b5ad842855e867c4999b9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark 4 Opacity
+    second: {fileID: 2800000, guid: 368f60949dcca9242b791e816b081335, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark Diffuse
+    second: {fileID: 2800000, guid: 709b2556e780fd9408003d7a34d22495, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burn Mark Opacity
+    second: {fileID: 2800000, guid: 5d2d8c9baba85ae44b300c40c1333bb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2800000, guid: 3fe07139888848041a6c97152884efa2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2800000, guid: 5c7700713c924c34f847b899ce800642, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crack
+    second: {fileID: 2800000, guid: 6c53fd5164807f54c8a6fd144f5e88b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crack 2 Diffuse
+    second: {fileID: 2800000, guid: 99113ba4c3bb01b4f8bad2a4b21f5050, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crack 2 Opacity
+    second: {fileID: 2800000, guid: d6c9e30ee11d63a4b92bd5b02dded50a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crack 3 Diffuse
+    second: {fileID: 2800000, guid: 8fe28259a0349c24a93bf1a827b3438d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crack 3 Opacity
+    second: {fileID: 2800000, guid: 8b634f40fe3efc04989d301101e3cb43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crack Opacity
+    second: {fileID: 2800000, guid: 7adce7346589bd744847f0b8962c3ff0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dirt Diffuse
+    second: {fileID: 2800000, guid: 077e6d0df19ae1744b063aa1570b6da0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dirt Opacity
+    second: {fileID: 2800000, guid: c07a051ae6fa69e4bbd3855a8fb88fb2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Elevator Indicator Diffuse
+    second: {fileID: 2800000, guid: a4ed3c48a1bc4134fbb3f3f5462ca352, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Elevator Indicator Opacity
+    second: {fileID: 2800000, guid: e04cdbd8add46834a93e8de660b04775, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2800000, guid: 3e2c66e8d008a8749901148cda0323e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Left Pointing Sign Diffuse
+    second: {fileID: 2800000, guid: 9ba706b801df6d44f93f06d8e2fa51c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Office Wall
+    second: {fileID: 2800000, guid: 1a17add0372dbef4aaebb6b0463c9564, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Right Pointing Sign Diffuse
+    second: {fileID: 2800000, guid: 376a2b64f77ca4d44bd027bcff58f218, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Right Pointing Sign Opacity
+    second: {fileID: 2800000, guid: 036c65f82cccfe9408ae9832ea466b85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sign Diffuse
+    second: {fileID: 2800000, guid: 7cea907ced765b34caef86c539d01e7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sign Opacity
+    second: {fileID: 2800000, guid: 59e2acb57c624bf4c88fcfc2b976efe6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall Outlet Diffuse
+    second: {fileID: 2800000, guid: 6779a11de29abc747a31829ca4c47a5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall Outlet Opacity
+    second: {fileID: 2800000, guid: 81e0df202484a8c4399761c81655cd6b, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
