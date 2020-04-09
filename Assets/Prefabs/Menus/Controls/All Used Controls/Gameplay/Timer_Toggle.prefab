@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1502966356325250704
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 731300894440444921, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: ToolTipField
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1686945024085303579, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: TextOnEnter
+      value: Should the Timer be visible on the HUD
+      objectReference: {fileID: 0}
+    - target: {fileID: 1686945024085303579, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: ToolTipField
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1686945024085303579, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: UseFadeIn
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1686945024085303579, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: TimeUntilTooltipShows
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2201633655662916875, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 159.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 2201633655662916875, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -9.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 2878880327771430387, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: AdditionalEventsToBroadcastOnChange.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2878880327771430387, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: AdditionalEventsToBroadcastOnChangeNoParameter.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2878880327771430387, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: PREF_KEY
+      value: OnToggleHUDTimer
+      objectReference: {fileID: 0}
+    - target: {fileID: 2878880327771430387, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: AdditionalEventsToBroadcastOnChange.Array.data[0]
+      value: OnToggleHUDTimer
+      objectReference: {fileID: 0}
+    - target: {fileID: 2878880327771430387, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: AdditionalEventsToBroadcastOnChangeNoParameter.Array.data[0]
+      value: OnToggleHUDTimer
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 255.00005
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 149
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3632740985350837845, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567008907946088707, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567008907946088707, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567008907946088707, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_textInfo.lineCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567008907946088707, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_textInfo.pageCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567008907946088707, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567008907946088707, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_text
+      value: HUD Timer
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567008907946088707, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_RaycastTarget
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5567008907946088707, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 6d4dc438b0513d34c960a14d19c87532,
+        type: 2}
+    - target: {fileID: 5567008907946088707, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5975380447840141477, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_Name
+      value: Timer_Toggle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7106792369717506661, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_IsOn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7106792369717506661, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_Navigation.m_Mode
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7106792369717506661, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_Navigation.m_SelectOnUp
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7106792369717506661, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_Navigation.m_SelectOnDown
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7106792369717506661, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_Navigation.m_SelectOnLeft
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7106792369717506661, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: m_Navigation.m_SelectOnRight
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9173366615465393717, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: ToolTipField
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9173366615465393717, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: UseFadeIn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9173366615465393717, guid: 5e2565383015c1449b2f52b6ea43566d,
+        type: 3}
+      propertyPath: TextOnEnter
+      value: Should the timer be visible in the HUD?
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e2565383015c1449b2f52b6ea43566d, type: 3}

@@ -1,0 +1,685 @@
+﻿
+//Please don't remove this. I use this for testing purposes and unless you actually flag
+//Shot1 to be Normal Play in inspector this will never actually come up.
+[Shot1]
+3.2:Daryl: Now you can see here we got an idiot who likes pain
+3.0:Daryl: more than the average asshole. Get a close-up!
+[/Shot1/]
+
+//////////////////Tutorial Voice Over//////////////////
+
+[POI1]
+4.0:Producer: (Sighs) Welcome to Crime Trials. 
+5.0:By committing your crimes you have forfeited your life for the entertainment of the People. 
+3.5:I’m going to teach you the basics so you can give everyone a good show. 
+3.0:Let’s hope you’re the one who can make it to the end and win your freedom.
+3.0:You CAN die during this instruction. 
+7.5:To start the Tutorial, shoot the button next to the door with your Crime Trial Brand mandatory prosthetic arm.
+[/POI1/]
+
+[POI2]
+5.5:Producer: As to not bore the Audience, please sprint...Please!
+[/POI2/]
+
+[POI2.5]
+4.5:Producer: You'll need to crouch under obsicles to progress throught the course.
+5.0:Just duck. If you are sprinting AND crouching, you can slide.
+5.0:Dont jump while sliding, your equipment CAN'T handle it.
+[/POI2.5/]
+
+[POI3]
+6.0:Producer: In order to overcome the many obstacles in your way, you will need to jump. 
+4.0:Oh, and you can use your equiopment in the air to double jump.
+[/POI3/]
+
+[POI4]
+3.5:Producer: While on the course, you will find checkpoints like these. 
+5.0:In the event of your death, a new criminal will take you place staring here.
+[/POI4/]
+
+[POI5]
+6.0:Producer: Your Crime Trial brand Tacky Running Shoes allow you to stick to walls more than normal shoes. 
+5.0: While running along a wall, press and hold the jump button to start wall running. 
+2.5: Keep running and you'll stay on the wall. 
+7.0: LOTS of folks dont know you can let go of the jump button at this point so they can jump off, so make sure YOU do. 
+[/POI5/]
+
+[POI5.5]
+4.0:Producer: Your Crime Trials provided equipment has an experimental combo system...
+2.5:that will increase your speed as you use them.
+5.5:Shoot things, wall run, double jump, and slide to increase your combo and speed.
+2.0:The combo will..
+1.0:Producer 2: deteriorate...
+3.0:Producer 1: over time. (thank you)
+[/POI5.5/]
+
+[POI6]
+6.0:Producer: By standing still while in the vicinity of these turrets, you consent to death by shooting. 
+2.5: Keep moving to keep living. 
+[/POI6/]
+
+[POI7]
+6.0:Producer: Keep going, you’re almost (mug breaking) Aghhh! My coffee!.
+2.5:Producer 2: D-dude, its just a coffee.
+4.5:Producer: Ugh! ITS IRISH COFFEE!  this job sucks.
+[/POI7/]
+
+[POI8]
+7.5:Producer: You are now ready to participate in the world's most exciting game show, Crime Trial.
+4.0:Have fun…. Alright. NEXT! 
+1.0:
+2.5:Producer 2: This idiot is not going to last long
+2.0:Producer: I know, right?
+[/POI8/]
+
+//////////////////Tutorial Death//////////////////
+
+[Death1]
+2.5:Producer: Thank you! Next!
+[/Death1/]
+
+[Death2]
+6.6:Producer: Can you believe this Idiot, they chose to participate in this instead of life in prison and they die HERE?!
+[/Death2/]
+
+[Death3]
+4.0:Producer: UGH! I need to get my quota of people through
+[/Death3/]
+
+[Death4]
+3.5:Producer: eh hehe. That one’s going in the bloopers.
+[/Death4/]
+
+//////////////////Tutorial Slow Time//////////////////
+
+[LongTime1]
+4.5:Producer: Can you please keep going, I have a LOT more Convicts to give this spiel to today. 
+[/LongTime1/]
+
+[LongTime2]
+3.5:Producer: Can you please go faster?
+[/LongTime2/]
+
+//////////////////Casual Conversation//////////////////
+
+[CC_D_1]
+5.0:Daryl: Now, Robert, why don’t you tell us about when you did your Crime Trial run?
+10.0:Robert: Ah! Well, you see. 'Ow I won is that, I found a body and I took the body and I put it down where spikes were and then I walked across it to finish line! 
+5.0:Daryl: Well, uhh, I've seen the footage... and none of that's true
+1.0:Robert: OUI!
+[/CC_D_1/]
+
+[CC_D_2]
+5.0:Daryl: It sure does tickle me that the acronym for the Global Unified Nation is GUN.
+2.0:Robert: You know my name is an acronym.
+2.5:Daryl: Oh? What does it stand for?
+4.5:Robert: euh… Really... Obviously...likes to murder!
+[/CC_D_2/]
+
+[CC_D_3]
+9.0:Daryl: OK Jonah, I know you’re proud to be Canadian but I sure am glad your monopoly money and your bagged milk went the way of the Queen.
+12.0:Jonah: Ok, bud. First off… the money. I don't need to go in my wallet and actually look through and see what I got, right? I got two blues and a green, two fives and a twenty. It's just that easy bud.
+3.0:Daryl: Do Canadians not know how to read?
+[/CC_D_3/]
+
+[CC_J_1]
+3.0:Robert: So I heard you can speak a lot of french?
+2.0:Jonah: Sure as god’s got sandals, bud.
+1.0:Robert: Cool. 
+[/CC_J_1/]
+
+[CC_J_2]
+5.0:Jonah: Now, see, Robert bud, I’ve noticed that all the convicts have their laser guns attached to their Crime Trials robotic arm. I've seen that you’ve kept your arm.
+4.5:Robert: Ah yes, I have the smaller version, but I just keep it in my pocket.
+1.5:Jonah: Wow, so they let you keep it, eh?
+4.5:Robert: Non, but everytime someone tried to take it from me I, eh, just kill them.
+1.0:Jonah: Thats fair.
+[/CC_J_2/]
+
+[CC_J_3]
+3.5:Robert: So Robert, I heard we got a mutual friend here eh, Matthew?(pronounced french-cana dian)
+1.0:Jonah: You mean Matthew (pronounced french)
+1.0:Robert: Yeah, Matthew (pronounced french candian)
+2.0:Jonah: CAN YOU SPEAK FRENCH?!
+[/CC_J_3/]
+
+[CC_R_1]
+3.25:Robert: Daryl my friend tell me, how many guns do you have?
+2.0:Daryl: Just the four. See? (sound of zipping open jacket and guns jangling)
+6.0:Robert: Eh Oui the guns are not for me, you can't see anything fun from so far away.
+[/CC_R_1/]
+
+[CC_R_2]
+7.5:Robert: You know, when I was younger, I used to hang out with my copine and together we commited mass genocide
+3.25:Daryl: I am almost positive that that aint true
+1.0:Robert: OK
+[/CC_R_2/]
+
+
+//////////////////Bee Shot//////////////////
+
+[BS_D_1]
+3.5:Daryl: Three seconds off. Shoot all of those guys!
+[/BS_D_1/]
+
+[BS_J_1]
+2.0:Jonah:Oh, nice finding that bonus bee, eh?
+[/BS_J_1/]
+
+[BS_R_1]
+3.0:Robert: The bee is ... dead.
+[/BS_R_1/]
+
+[BS_R_2]
+4.5:Robert: Even I would not kill such a poor defenceless baby bee!
+1.5: You are monster!
+[/BS_R_2/]
+
+[BS_R_3]
+5.5:Robert: Even I would not kill such a adorable Flightless Bee (tm)!
+[/BS_R_3/]
+
+//////////////////Checkpoint ADs//////////////////
+
+[L1_AD_1]
+1.4:Greta: Hello, I am Greta.
+1.5:Nicolaj: I am Nicolaj.
+2.5:Greta: We are here to represent Vodka Twins Vodka.
+1.5:Nicolaj: People like vodka...
+1.0:Greta: ...Vodka is Russian..
+1.5:Nicolaj: ...People like Russia
+1.0:Greta: Simple as that.
+3.0:Together: Vodka Twins Vodka, Simple as that.
+[/L1_AD_1/]
+
+[L1_AD_2] 
+9.0:Actor 1:(Wimpy, lame, and nasal) Im Leroy Marvin and I...I cant make it through the ad! I need a sip of the best sugar free Cola there is!
+8.0:Actor 2:(Strong deep voice) Now, as Captain Can, I can tell you to go to your local grocer and open yourself up a can of Whup-Ass brand Cola. Drink free!
+3.5:Actor 1:(out of character) “ugh...This shit is so bad. Can I have a spit bucket
+0.7:Director: HEY we’re still live!
+0.5:Actor 1: Oh fu...
+[/L1_AD_2/]
+
+[L1_AD_4]
+10.0:Narrator: Headache? Stomach pains? Joint aches? Broken foot? Migraine? Ear blood? Heartburn? No hands?
+2.5:Narrator: Sore thro- ROBERT NO!
+5.0:Robert: Then buy some Friendly Ibuprofen. Be prudent, it may make you drowsy!
+4.0: 
+2.0:Jonah: Robert, where were you buddy?
+4.0:Robert: (Out of breath) J’alle au bathroom.
+[/L1_AD_4/]
+
+
+//////////////////Death Generic//////////////////
+
+[DG_D_1]
+3.0:Daryl: Oh lord, that’s a bad one
+[/DG_D_1/]
+
+[DG_D_2]
+3.0:Daryl: I, for one, am glad they're dead
+[/DG_D_2/]
+
+[DG_D_3]
+2.5:Daryl: THEY sure won't rise again!
+[/DG_D_3/]
+
+[DG_D_4]
+3.5:Daryl: I TOLD you they weren’t gonna make it, Come on, pay up. 
+[/DG_D_4/]
+
+[DG_D_5]
+3.5:Daryl: Oh! They’re all whip and no cattle!
+[/DG_D_5/]
+
+[DG_D_6]
+3.0:Daryl: Thank the Lord! They kinda sucked.
+[/DG_D_6/]
+
+[DG_D_7]
+2.5:Daryl: High-time they high-died.
+[/DG_D_7/]
+
+[DG_D_8]
+2.5:Daryl: Now thats what they call a Kentucky Homecoming!
+[/DG_D_8/]
+
+[DG_R_1]
+2.5:Robert: I was told I can keep the body. Eh?
+[/DG_R_1/]
+
+[DG_R_2]
+5.0:Robert: That is what you get for being a criminal! No one likes... tax fraud.
+[/DG_R_2/]
+
+[DG_R_3]
+3.5:Robert: Why are you both closing your eyes? Isn’t this the point of this show?
+[/DG_R_3/]
+
+[DG_R_4]
+3.0:Robert: (Evil french laughing)
+[/DG_R_4/]
+
+[DG_R_4_2]
+3.0:Robert: (Evil french laughing)
+[/DG_R_4_2/]
+
+[DG_R_5]
+3.5:Robert: Come on. Die BETTER next time!
+[/DG_R_5/]
+
+[DG_R_6]
+3.5:Robert: Ahh, SELF-murder. How fun.
+[/DG_R_6/]
+
+[DG_R_7]
+3.5:Robert: Go back to Gatineau, you fricker!
+[/DG_R_7/]
+
+[DG_R_8]
+3.5:Robert: When will they learn?
+[/DG_R_8/]
+
+[DG_J_1]
+3.0:Jonah: This ones tougher than a tractor tire, but he's dumber than an inbred moose.
+[/DG_J_1/]
+
+[DG_J_2]
+2.5:Jonah: Ooh, really sorry about that, eh
+[/DG_J_2/]
+
+[DG_J_3]
+2.0:Jonah: That was fucking pedestrian, bud.
+[/DG_J_3/]
+
+[DG_J_4]
+2.5:Jonah: I feel sorry for that ones parent to have to see that one.
+[/DG_J_4/]
+
+[DG_J_5]
+2.5:Jonah: You're fucking TEN-ply bud.
+[/DG_J_5/]
+
+[DG_J_6]
+2.5:Jonah: Oh, tabarnak, that must have hurt
+[/DG_J_6/]
+
+[DG_J_7]
+1.5:Jonah: Oh, I was hopin, eh.
+[/DG_J_7/]
+
+[DG_J_8]
+2.5:Jonah: He got a thousand island fucked, there.
+[/DG_J_8/]
+
+
+//////////////////Death Turret//////////////////
+
+[DT_D_1]
+1.2:Daryl: BLAMMO!
+[/DT_D_1/]
+
+[DT_D_2]
+5.5:Daryl: Now, I just can’t get behind this new laser future we’re sprinting to! 
+9.0: Sure they’re cheaper and faster and cleaner, but they just don't give you that hit that gunpowder gives ya.
+4.0: At least they don't give ME the same buzz.
+[/DT_D_2/]
+
+[DT_J_2]
+2.3:Jonah: These things are agressive just like a canadian goos is spring, eh
+[/DT_J_2/]
+
+[DT_J_1]
+2.3:Jonah: Not sure what this is about right, but he stopped in front of a turret, and...
+1.3: OOH. And now he's dead
+[/DT_J_1/]
+
+[DT_J_3]
+2.3:Jonah: They got more hols than a maple in march
+[/DT_J_3/]
+
+[DT_R_1]
+3.0:Robert: (in french) What am I gonna do wit all the holes in the body now?
+[/DT_R_1/]
+
+[DT_R_2]
+3.0:Robert: You should have kept moving!
+[/DT_R_2/]
+
+//////////////////End of Level//////////////////
+
+[EOL_D_1]
+2.0:Daryl: Must be done tucker’d out now
+[/EOL_D_1/]
+
+[EOL_D_2]
+2.5:Daryl: Quit runnin, you're done in like a bloomin onion!
+[/EOL_D_2/]
+
+[EOL_J_1]
+4.0:Jonah: Oh, now that's a nice time. Once they get their freedom, maybe THEY can make the coffee run. 
+1.5: Donnie is way too slow, bud.
+[/EOL_J_1/]
+
+[EOL_J_2]
+2.5:Jonah: Now thats a guy you can go fra rip and a dart with
+[/EOL_J_2/]
+
+[EOL_R_1]
+2.0:Robert: They look dead.. uh, tired
+[/EOL_R_1/]
+
+//////////////////Fast time through checkpoint//////////////////
+
+[Fast_D_1]
+3.0:Daryl: Whooo. Is their ass on fire?
+[/Fast_D_1/]
+
+[Fast_D_2]
+2.5:Daryl: Jackrabbit-esque performance, I’d say.
+[/Fast_D_2/]
+
+[Fast_D_3]
+2.0:Daryl: Y’all did that right quick!
+[/Fast_D_3/]
+
+[Fast_J_1]
+2.0:Jonah: Well, aren't you a lucky one, being so fast and such.
+[/Fast_J_1/]
+
+[Fast_J_2]
+2.0:Jonah: Congrats on a good eighth of the course, bud.
+[/Fast_J_2/]
+
+[Fast_R_1]
+4.1:Robert: I though they might even beat my time! But they did not.
+[/Fast_R_1/]
+
+[Fast_R_2]
+4.1:Robert: (In french) Oh, are you challenging me?
+[/Fast_R_2/]
+
+//////////////////Slow time through checkpoint//////////////////
+
+[Slow_D_1]
+3.0:Daryl: And they got there! ...Eventually!
+[/Slow_D_1/]
+
+[Slow_D_2]
+3.5:Daryl: They earned themselves a new nickname... Molassess
+[/Slow_D_2/]
+
+[Slow_D_3]
+4.0:Daryl: Just pretend you are being chased by Death. Cuz ya are!
+[/Slow_D_3/]
+
+[Slow_J_1]
+2.0:Jonah: You can go faster than that. I believe!
+[/Slow_J_1/]
+
+[Slow_J_2]
+2.0:Jonah: Oh, thats a FINE time, eh. Dont feel TOO bad.
+[/Slow_J_2/]
+
+[Slow_R_1]
+3.0:Robert: Should have been there ages ago! Yer ten retard
+1.5:Daryl: You called'em WHAT?
+5.0:Robert: Retard esti… ehhhh, he is late. Not on time.
+[/Slow_R_1/]
+
+[Slow_R_2]
+2.0:Robert: You MUST go faster!
+[/Slow_R_2/]
+
+[Slow_R_4]
+2.0:Robert: VIT VIT VIT!
+[/Slow_R_4/]
+
+[Slow_R_5]
+2.5:Robert: Oh, we are still going? I though you were dead.
+[/Slow_R_5/]
+
+[Slow_R_6]
+2.0:Robert: Alor, onii-chan.
+[/Slow_R_6/]
+
+//////////////////First Death/ Pop-up//////////////////
+
+[FP_D_1]
+5.0:Daryl: Ooh boy! Those things’ll come up on ya. Watch out!
+[/FP_D_1/]
+
+[FP_J_1]
+1.5:Jonah: Spooked you, didn't it?
+[/FP_J_1/]
+
+[FP_R_1]
+2.0:Robert: BOO! Hon hon hon hon!
+[/FP_R_1/]
+
+
+
+//////////////////Lots of Death Run//////////////////
+
+[LOD_D_1]
+6.0:Daryl: This course must be good, those convicts KEPT dying! They just kept dying!
+[/LOD_D_1/]
+
+[LOD_J_1]
+4.2:Jonah: Well, at least someone got to the end, and IN the end that's really what matters, You know?
+[/LOD_J_1/]
+
+[LOD_R_1]
+8.0:Robert: I have had SO much fun watching this with my friends here. So much death. Mmm, so good!
+[/LOD_R_1/]
+
+
+//////////////////No Death Run//////////////////
+
+[ND_D_1]
+5.0:Daryl: It truly is rare to see a Convict make it all the way through unscathed. 
+4.0: Maybe they cheated. I'm suspicious... 
+6.0: Or drunk. Definitely one of those. Time for their prize!
+[/ND_D_1/]
+
+[ND_J_1]
+2.5:Jonah: I cant say im glad that a criminal is back out on the streets, right,
+3.0:but it's hard not to be impressed by a performance like that! Good Job, bud.
+[/ND_J_1/]
+
+[ND_R_1]
+5.3:Robert: Ah well, on get to have no fun this time, the Convict made it through alive. 
+7.0:I'm sorry for the inconvenience of our viewers, but they refused to die. I know,I know.
+[/ND_R_1/]
+
+//////////////////Start of level encouragement //////////////////
+
+[SOLE_D_1]
+1.5:Daryl: Git a move on!
+[/SOLE_D_1/]
+
+[SOLE_D_2]
+3.0:Daryl: 3,2,1,GO 
+[/SOLE_D_2/]
+
+[SOLE_J_1]
+1.0:Jonah: Pidder-padder Bud!
+[/SOLE_J_1/]
+
+[SOLE_J_2]
+1.0:Jonah: Alonsy luh!
+[/SOLE_J_2/]
+
+[SOLE_R_1]
+1.5:Robert: You had better get going.
+[/SOLE_R_1/]
+
+[SOLE_R_2]
+2.0:Robert: Oh I was faster out of the gate than this
+[/SOLE_R_2/]
+
+[SOLE_R_3]
+3.0:Robert: If you don’t start running, I will run after you.
+[/SOLE_R_3/]
+
+//////////////////Start of level Convict Intro//////////////////
+
+[SOLI_D_1]
+8.0:Daryl: This’un tried to buy an assault rifle while drunk. Now I got two problems with this (two barrels, two problems). 
+7.7: One, it wurn't an american made gun. And two, they got hammered off girly, fruity cocktails. 
+6.0:Now, to be fair, she was a young mexican woman, but still, no excuse!
+[/SOLI_D_1/]
+
+[SOLI_D_2]
+6.0:Daryl: Communism! They’s a commie, put them to death, COMMIE! 
+4.0: They also killed four people, but what do you expect from a commie? 
+[/SOLI_D_2/]
+
+[SOLI_J_1]
+7.0:Jonah: Okey, now so this guy here, eh, we're plain shiny one day on the pond and buddy here puts a nice cross check on this other lad, nice guy though, fuck
+5.0: but if this guy doesn't say sorry after, right? Called the mounties myself.
+[/SOLI_J_1/]
+
+[SOLI_J_2]
+6.0:Jonah: Me and my second cousin, right, we're going over to toronto for the weekend, and the maple syrup truck goes by, oh if that isnt just the best luck bud, 
+6.5:and if this guy doesnt come zoomin up behind 'em and pulls up right next to it, right, and we're like 'oh, this is not happening' right?
+3.0: and they just start jumpin on to the truck and unloading the syrup right...
+2.0: Oh, sorry bud, I was ramblin' there.
+[/SOLI_J_2/]
+
+[SOLI_R_1]
+5.5:Robert: Oh this guy, he started just like me, a small time murderer with a glint in his eyes for racial genocide.
+5.0: But nom de Dieu, he got caught. What a stupid idyot. 
+[/SOLI_R_1/]
+
+[SOLI_R_2]
+7.0:Robert: Ah it is Jacque, my favourite apprentice. I was the one who taught him how skin the body alive in under a minute.
+6.0: Obviously he got caught. (under breath) I thought I taught him better.
+[/SOLI_R_2/]
+
+
+//////////////////Success / Jump//////////////////
+
+[SJ_D_1]
+3.0:Daryl: That's near as wide as the mississippi.
+[/SJ_D_1/]
+
+[SJ_J_1]
+2.0:Jonah: Pert near fell into that pit, eh buddy.
+[/SJ_J_1/]
+
+[SJ_R_1]
+4.5:Robert: That’s a stupid pit. You could even climb out if you fell, easy pease!
+[/SJ_R_1/]
+
+////////////////// Room //////////////////
+
+[Room_D_1]
+2.0:Daryl: Boring stuff here in the Office. 
+[/Room_D_1/]
+
+[Room_D_2]
+2.5:Daryl: Lots of sludge in this here Basement
+[/Room_D_2/]
+
+[Room_D_3]
+3.0:Daryl: Lots of turrets in the Barrel Storage Room. Fun!
+[/Room_D_3/]
+
+[Room_D_4]
+6.5:Daryl: The Turbine room is too crazy for me, if you get turned around, y’allways can just die and give up
+[/Room_D_4/]
+
+[Room_D_5]
+4.5:Daryl: The Reactor Room is where the magic happens. Nuclear magic.
+[/Room_D_5/]
+
+[Room_D_6]
+4.2:Daryl: Finally, they get Outside, I was tired of the geiger counter clicking so much!
+[/Room_D_6/]
+
+[Room_D_7]
+2.5:Daryl: Now we got a vertical climb in the Cooling Tower
+[/Room_D_7/]
+
+[Room_D_8]
+2.5:Daryl: Almost there, Now shoot the damn button!
+[/Room_D_8/]
+
+[Room_D_9]
+2.0:Daryl: And they go DOWN!
+[/Room_D_9/]
+
+[Room_J_1]
+2.5:Jonah: Don't see any hockey puck themed paperweights here in the Office.
+[/Room_J_1/]
+
+[Room_J_2]
+2.0:Jonah: Dont think its too safe in this Basement
+[/Room_J_2/]
+
+[Room_J_3]
+2.2:Jonah: Don't think these barrels have sap in them in this Barrel Storage room
+[/Room_J_3/]
+
+[Room_J_4]
+3.0:Jonah: Just remember your wilderness navigation skills here in the Turbine Room
+[/Room_J_4/]
+
+[Room_J_5]
+4.0:Jonah: This Reactor Room is too hot for some stick play, Bud Put ‘em away.
+[/Room_J_5/]
+
+[Room_J_6]
+2.5:Jonah: I wonder if the snow falls green here. It would match the sky!
+[/Room_J_6/]
+
+[Room_J_7]
+2.5:Jonah: Just dangle on through this here cooling tower
+[/Room_J_7/]
+
+[Room_J_8]
+2.0:Jonah: Get a nice slapshot on those buttons!
+[/Room_J_8/]
+
+[Room_J_9]
+2.0:Jonah: Fell just like a goose during hunting season
+[/Room_J_9/]
+
+[Room_R_1]
+5.0:Robert: Ugh, they entered the Office. I deteste the stuffy atmosphere. 
+[/Room_R_1/]
+
+[Room_R_2]
+3.0:Robert: The Basement is where the real danger starts!
+[/Room_R_2/]
+
+[Room_R_3]
+4.5:Robert: Try to knock down the stacks here I haven't seen anyone die in the Barrel Storage Room
+[/Room_R_3/]
+
+[Room_R_4]
+6.0:Robert: So many places to hide here in the Turbine Room. Not from ME though
+[/Room_R_4/]
+
+[Room_R_5]
+4.3:Robert: This is the Reactor Room. Try shooting one of them, they are disabled, I think.
+[/Room_R_5/]
+
+[Room_R_6]
+5.0:Robert: Good, they are outside. If you find any unmarked graves, LEAVE THEM ALONE
+[/Room_R_6/]
+
+[Room_R_7]
+3.5:Robert: Those fans can be sharp in the Cooling Tower
+[/Room_R_7/]
+
+[Room_R_8]
+2.5:Robert: All you have to do here is shoot the button.
+[/Room_R_8/]
+
+[Room_R_9]
+3.0:Robert: Die where I see you, you moron!
+[/Room_R_9/]
+
+

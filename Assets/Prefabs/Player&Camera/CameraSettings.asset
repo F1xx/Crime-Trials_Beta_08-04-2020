@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48a7305976dfd834e9d249c4dec781a3, type: 3}
+  m_Name: CameraSettings
+  m_EditorClassIdentifier: 
+  TargetToFollow: {fileID: 0}
+  ArmToRotate: {fileID: 0}
+  CameraPivotPoint: {fileID: 0}
+  IsMouseInverted: 0
+  StartFacingDirection: {x: 0, y: 0, z: 0}
+  MouseSensitivity: 120
+  FOVMaxSpeed: 95
+  FOVMidSpeed: 90
+  FOVMinSpeed: 85
+  StartFOV: 80
+  FOVMaxSpeedThreshold: 17
+  FOVMidSpeedThreshold: 10
+  FOVMinSpeedThreshold: 0
+  FOVMaxSpeedTweenDuration: 1
+  FOVMidSpeedTweenDuration: 1
+  FOVMinSpeedTweenDuration: 0.1
+  IsHeadBob: 1
+  IsArmSway: 1
+  TopSpeedThreshold: 10
+  LowSpeedThreshold: 0
+  BobSpeedTopSpeed: 3
+  BobSpeedLowSpeed: 2
+  BobSpeedStanding: 1
+  BobAmountXTopSpeed: 0.0015
+  BobAmountYTopSpeed: 0.001
+  BobAmountXLowSpeed: 0.0005
+  BobAmountYLowSpeed: 0.0005
+  BobAmountXStanding: 0.0003
+  BobAmountYStanding: 0.0003
+  WallRunClampTweenType: 1
+  RollClampTweenType: 1
+  WallRunningClampTweenDuration: 0.4
+  RollTweenDuration: 0.2
+  WallRunningRollAngle: 15
+  AngleLockOffsetTowardsWall: 10
+  AngleLockOffsetAwayWall: 90
