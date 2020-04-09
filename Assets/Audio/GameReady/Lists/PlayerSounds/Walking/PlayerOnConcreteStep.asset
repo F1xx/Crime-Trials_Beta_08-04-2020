@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85906a5b8eaf5c74e81083d636b28d1c, type: 3}
+  m_Name: PlayerOnConcreteStep
+  m_EditorClassIdentifier: 
+  AudioObjects:
+  - {fileID: 11400000, guid: 03d026c3731a94d4a8a9a27e559b3242, type: 2}
+  - {fileID: 11400000, guid: 3f054407e88c8b34aa4892f5b9e34f56, type: 2}
+  - {fileID: 11400000, guid: d574ac6cad3a10845a66d011b561efb4, type: 2}
+  - {fileID: 11400000, guid: ab2202515189cbb429fbaacc460a629b, type: 2}
+  - {fileID: 11400000, guid: 184035a2748571b47b5d01c625a6cedd, type: 2}
+  - {fileID: 11400000, guid: c13ff5165a17af54c8b0ccb2ca27ce83, type: 2}
+  - {fileID: 11400000, guid: b567176c276357e41b11b5b04dae1bbb, type: 2}
+  - {fileID: 11400000, guid: cb8abfb88d14ebf4096b02675617c4a1, type: 2}
+  - {fileID: 11400000, guid: aa74c0410834aa0499294910c8dccadf, type: 2}
+  - {fileID: 11400000, guid: 273d7c68ca57b1e45984ff9fb70621fc, type: 2}
+  EnsuresUniqueSound: 1

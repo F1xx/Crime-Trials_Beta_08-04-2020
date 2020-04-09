@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85906a5b8eaf5c74e81083d636b28d1c, type: 3}
+  m_Name: BeeShotList
+  m_EditorClassIdentifier: 
+  AudioObjects:
+  - {fileID: 11400000, guid: 892e2d697a040064d8a392a408e03f3f, type: 2}
+  - {fileID: 11400000, guid: a4374d736db43d8448aa19a425e64f0a, type: 2}
+  - {fileID: 11400000, guid: 512630d9aa5430d429ec8fbc6e8b72c2, type: 2}
+  - {fileID: 11400000, guid: 40d7facb49e92bc47a0fc241a0b415eb, type: 2}
+  - {fileID: 11400000, guid: 94a03a1b949bd834f8c5486d679b76ec, type: 2}
+  EnsuresUniqueSound: 0

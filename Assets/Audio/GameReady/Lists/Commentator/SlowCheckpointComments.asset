@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85906a5b8eaf5c74e81083d636b28d1c, type: 3}
+  m_Name: SlowCheckpointComments
+  m_EditorClassIdentifier: 
+  AudioObjects:
+  - {fileID: 11400000, guid: 32181a0f6f6740c42842d3a9fb85eb50, type: 2}
+  - {fileID: 11400000, guid: c49acdc0ee6974f49b05e617c31e1d57, type: 2}
+  - {fileID: 11400000, guid: 1897e9b1ca3214045b5304ff3ff3afe8, type: 2}
+  - {fileID: 11400000, guid: 8f123155845b874498d3a1e03a8e8ce6, type: 2}
+  - {fileID: 11400000, guid: d7823614559ef574c94ff4d0c9a0fa22, type: 2}
+  - {fileID: 11400000, guid: 652411f0a956e264aabb9bf644366576, type: 2}
+  - {fileID: 11400000, guid: 3d0c5d8627a4c20499351d9ac5ba7f2f, type: 2}
+  - {fileID: 11400000, guid: 5dc25b9882fe9514988f04758556faca, type: 2}
+  - {fileID: 11400000, guid: 37ca3fb63a7496a4fb89569a5a726881, type: 2}
+  - {fileID: 11400000, guid: b4e8bcfeff2a23b4dbb2087f224c0db2, type: 2}
+  EnsuresUniqueSound: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85906a5b8eaf5c74e81083d636b28d1c, type: 3}
+  m_Name: PlayerOnDeathList
+  m_EditorClassIdentifier: 
+  AudioObjects:
+  - {fileID: 11400000, guid: a183980cd99ee5f449b5c9471c138883, type: 2}
+  - {fileID: 11400000, guid: 6d5c2afa95398b040be0e3e8d86899e1, type: 2}
+  - {fileID: 11400000, guid: f93d6a215478d544eb87c65bf078c4ee, type: 2}
+  - {fileID: 11400000, guid: 28333e5986116724089b61763f5c5d2c, type: 2}
+  - {fileID: 11400000, guid: c75c7743c912f32489a47dd6b0686b1f, type: 2}
+  - {fileID: 11400000, guid: 7a6732213da5c4341b4e9b3e519083c4, type: 2}
+  EnsuresUniqueSound: 1

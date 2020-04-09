@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85906a5b8eaf5c74e81083d636b28d1c, type: 3}
+  m_Name: StartOfLevelList
+  m_EditorClassIdentifier: 
+  AudioObjects:
+  - {fileID: 11400000, guid: e18c7c54782e895449c8fd9fc6e1dcdc, type: 2}
+  - {fileID: 11400000, guid: bec4d6fd6f3e5f747bb0e6d3c50b1f5d, type: 2}
+  - {fileID: 11400000, guid: 02ea1c133771055468f12187da49f53e, type: 2}
+  - {fileID: 11400000, guid: 83cca89fd9b8fe745af4712db2eeb544, type: 2}
+  - {fileID: 11400000, guid: c5db2a709f4916d409c07694d1cbf92e, type: 2}
+  - {fileID: 11400000, guid: b4735925240ce4849a570bbd45e15b85, type: 2}
+  EnsuresUniqueSound: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85906a5b8eaf5c74e81083d636b28d1c, type: 3}
+  m_Name: CoolingTower1
+  m_EditorClassIdentifier: 
+  AudioObjects:
+  - {fileID: 11400000, guid: 9d5453055b90b844a9c79f134ffc1b54, type: 2}
+  - {fileID: 11400000, guid: 9a462740a894e7449b30d0bc8ea06093, type: 2}
+  - {fileID: 11400000, guid: 5ebda4e2cae74f7438d464a3cfc8ad72, type: 2}
+  EnsuresUniqueSound: 1
